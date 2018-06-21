@@ -1,6 +1,6 @@
 numpy
 pandas
-pip install -U spacy
+spacy
 python -m spacy download en
 os
 codecs
