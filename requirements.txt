@@ -1,0 +1,7 @@
+numpy
+pandas
+spacy
+os
+codecs
+it
+json
