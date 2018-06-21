@@ -1,8 +1,0 @@
-numpy
-pandas
-spacy
-python -m spacy download en
-os
-codecs
-it
-json
